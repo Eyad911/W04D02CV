@@ -1,0 +1,46 @@
+.experDiv{
+
+    width: 50%;
+    text-align: left;
+    margin-left: 20px;
+    border: 1px solid gray;
+    align-items: center;
+}
+
+.aboutH1{
+    color: gray;
+ padding-left: 40px;
+}
+.workEXH1{
+    color: gray;
+}
+
+.experDiv h1 ,p ,h3,h6{
+    padding-left: 40px;
+}
+h6{
+    color: gray;
+}
+.skillsH1{
+    color: gray;
+}
+.parDivBK{
+    padding: 10px;
+    /* margin-top: 10px; */
+    margin-left: 20px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.parDivBK p {
+    
+    padding:10px;
+    /* margin-left: 40px; */
+    display: inline;
+    color: white;
+    background-color: green;
+    border-radius: 10px;
+}
+.eduH1{
+    color: grey;
+}
